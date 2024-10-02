@@ -1,0 +1,71 @@
+body{
+    margin: 0px;
+    background-color: rgb(243, 229, 216);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 2200px;
+}
+
+main{
+    width:650px;
+    height: 1950px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 35px;
+}
+img{
+    height:297px;
+    border-radius: 10px;
+
+}
+h1{
+    font-family: sans-serif;
+    color: rgb(51, 50, 48);
+    font-size: 2.55em;
+}
+p{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 15.17px;
+}
+.time{
+    background-color: rgb(255, 247, 252);
+    width: 100%;
+    height: 220px;
+    border-radius: 10px;
+    padding: 15px;
+}
+h2{
+    font-family: sans-serif;
+    color: rgb(113, 47, 74);
+}
+
+li{
+    margin-top: 30px;
+}
+li p{
+    color: rgb(94, 85, 86);
+}
+.inst{
+    font-weight: bold;
+    font-size: 26px;
+    color: rgb(121, 64, 47);
+}
+.numbers{
+    list-style-type:decimal;
+}
+.last{
+    color: rgb(94, 85, 86);
+}
+.lastone{
+    width: 50%;
+    color: rgb(83, 82, 80);
+}
+.lasttwo{
+    width: 50%;
+    color: rgb(122, 74, 60);
+}
+.container{
+    display: flex;
+}
